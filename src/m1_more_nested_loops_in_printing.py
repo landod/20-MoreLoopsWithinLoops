@@ -17,6 +17,7 @@ def main():
     run_test_numbers_increasing_forward()
 
 
+
 def run_test_triangle_right_justified():
     """ Tests the    triangle_right_justified    function. """
     print()
